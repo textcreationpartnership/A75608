@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arraignment, conviction, and imprisoning, of Christmas: on St. Thomas day last. And how he broke out of prison in the holidayes and got away, onely left his hoary hair, and gray beard, sticking between two iron bars of a window. With, an hue and cry after Christmas, and a letter from Mr. Woodcock a fellow in Oxford, to a malignant lady in London. And divers passages, between the lady and the cryer, about old Christmas: and what shift he was fain to make to save his life, and great stir to fetch him back again. With other divers witty passages.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75608</idno>
+            <idno type="STC">Wing A3749</idno>
+            <idno type="STC">Thomason E315_12</idno>
+            <idno type="STC">ESTC R200516</idno>
+            <idno type="EEBO-CITATION">99861238</idno>
+            <idno type="PROQUEST">99861238</idno>
+            <idno type="VID">113369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113369)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E315[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arraignment, conviction, and imprisoning, of Christmas: on St. Thomas day last. And how he broke out of prison in the holidayes and got away, onely left his hoary hair, and gray beard, sticking between two iron bars of a window. With, an hue and cry after Christmas, and a letter from Mr. Woodcock a fellow in Oxford, to a malignant lady in London. And divers passages, between the lady and the cryer, about old Christmas: and what shift he was fain to make to save his life, and great stir to fetch him back again. With other divers witty passages.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Simon Minc'd Pye, for Cissely Plum-porridge: and are to be sold by Ralph Fidler Chandler, at the signe of the Pack of Cards in Mustard-Alley, in Brawn-street.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 12th London 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113369:1" rendition="simple:additions"/>
+            <p>THE ARRAIGNMENT, CONVICTION, and IMPRISONING, OF CHRISTMAS: On St. <hi>Thomas</hi> day laſt.</p>
+            <p>AND How he broke out of Priſon in the Holidayes and got away, onely left his hoary hair, and gray beard, ſticking be<g ref="char:EOLhyphen"/>tween two Iron Bars of a Window.</p>
+            <p>WITH, An Hue and Cry after CHRISTMAS, and a Letter from Mr. <hi>Woodcock</hi> a Fellow in Oxford, to a Malignant Lady in <hi>LONDON.</hi>
+            </p>
+            <p>And divers paſſages between the Lady and the Cryer, about Old Chriſtmas: And what ſhift he was fain to make to ſave his life, and great ſtir to fetch him back again.</p>
+            <p>With divers other Witty Paſſages.</p>
+            <p>
+               <add>Jan: 12<hi rend="sup">th</hi> London</add> Printed by <hi>Simon Minc'd Pye,</hi> for <hi>Ciſſely Plum-porridge;</hi> And are to be ſold by <hi>Ralph Fidler</hi> Chandler, at the ſigne of the <hi>Pack of Cards</hi> in <hi>Muſtard-Alley,</hi> in <hi>Brawn-ſtreet.</hi> 1646. <add>1645</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:113369:2"/>
+            <sp>
+               <speaker>Lady.</speaker>
+               <p>HOneſt Crier, I know thou kneweſt old Father chriſtmas; I am ſent to thee from an honeſt ſcholl<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Oxford (that hath given me many a hug and kiſſt in Chriſtmas time when we have been merry) to cry Chriſt<g ref="char:EOLhyphen"/>mas, for they hear that he is gone from hence, and that we have loſt the poor old man; you know what marks he hath, and how to cry him.</p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>Who ſhalll pay me for my paines?</p>
+            </sp>
+            <sp>
+               <speaker>Lady.</speaker>
+               <p>Your old friend Mr. <hi>Woodcock</hi> of Oxford, wilt thou take his word?</p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>I will cry him I warrant you, through the Citie and Countrie, and it ſhall go hard but I will finde him out; I can partly gheſſe who can tell ſome newes of him, if any people in England can, for I am acquainted with all his f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>miliar friends: Truſt me in this buſineſſe, I will bring you word within few dayes.</p>
+            </sp>
+            <p>
+               <hi>H o o o o o o o yes, ho-o e-o o o yes, ho o o o o o o yes;</hi>
+            </p>
+            <p>Any man or woman, whether Popiſh or Prelaticall, Su<g ref="char:EOLhyphen"/>perſtitious or Judaicall, Ignorant or J<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſuiticall, or what per<g ref="char:EOLhyphen"/>ſon ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever, of any Tribe or Trullibub; that can give any knowledge, or tell any tidings of an old, old, old, very old, gray bearded Gentleman, called Chriſtmas; who was wont to be a verie familiar gheſt, and viſite all ſorts of people both poor and rich, and uſed to appear in glittering gold ſilk qand ſilver in the Court, and in all ſhapes in the Theater in White-hall, and had ringing, feaſts, and jollitie in all pla<g ref="char:EOLhyphen"/>ces, both in the Citie and Countrie for his comming; if you went to the Temple, you might have found him there at In and In, till many a Gentleman had outed all the mony from his pocket, and after all, the Butlers found him locked up in their Boxes: And in almoſt every houſe, you might have found him at Cards and Dice, the very boyes and chil<g ref="char:EOLhyphen"/>dren could have traced him, and the Beggers have followed him from place to place, and ſeen him walking up and
+<pb n="3" facs="tcp:113369:2"/>downe; and in every houſe roaſt Brefe and Mutton, Pies and Plumporrige, and all manner of delicates round about him, and every one ſaluting merry Chriſtmas; if you had gone to the Queenes Chappel, you might have found him ſtand<g ref="char:EOLhyphen"/>ing againſt the wall; and the Papiſts weeping, and beating themſelves before him, and kiſſing his hoary head with ſu<g ref="char:EOLhyphen"/>perſtitious teares, in a theater exceeding all he playes of the red Bull, the Forture, or the Cockpit.</p>
+            <p>For age, this hoarie headed man was of great yeares, and as white as ſnow, he entred the Romiſh Kallender time out of mind<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as old or very neer, as Father <hi>Mathuſalem</hi> was, one that looked freſh in the Biſhops time, though their fall made him pine away ever ſince; he was full, and fat as any dume Docter, on them all, he looked under the conſecrated Laune ſleeves as big as Bul-beefe, juſt like Bacchus upon a tunne of wine, when the grapes hang ſhaking about his eares; but ſince the catholike liquor is taken from him, he is much waſted, ſo that he hath looked very thin, and ill of late; but the wanton women that are ſo mad after him, do not know how he is metamorphiſed; ſo that he is not now like himſelfe, but rather like a Iack a lent.</p>
+            <p>But yet ſome other markes that you may know him by, is that the wanton Women dote after him, he helped them to ſo many new Gownes, Hatts, and Hankerches, and other fine knacks, of which he hath a pack on his back, in which is good ſtore of all ſorts, beſides the fine knacks that he got out of their husbands pockets for houſhold proviſions for him: he got Prentiſes, Servants, and Schollers many play<g ref="char:EOLhyphen"/>dayes, and therefore was well beloved by them alſo and made all merry with Bagpip<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Fiddles, and other muſicks, Giggs, Dances, and Mummings, yea the yong people had more merry dayes, and houres before him whilſt he ſtayd, which was in ſome houſes 12. dayes, in ſome 20. in ſome more, and in ſome leſſe, then in all the yeare againe: and
+<pb n="4" facs="tcp:113369:3"/>more Laſſes was got with child, when he elevated his knees with his ſocundity then was in all the time of the lent fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>The Candlemaker, Cardmaker, Cookes, Pimakers, and all fotts of trades ſeaſonable for the time, got well by him, and vended his Commodityes beſt at his coming, and ma<g ref="char:EOLhyphen"/>ny a broken poore whore could get up a new baudie houſe, and a new ſtock, by the coming of this good fellow.</p>
+            <p>The proportion of his feete is well knowne, for he crept from under the Romiſh Chaire; and was placed in the Ka<g ref="char:EOLhyphen"/>lender only by a popiſh Edict, to be a time obſervable for the common People to bring in large offerings to the Popes holineſſe, and to maintaine the Cardinalls, Prieſts, and Fryers.</p>
+            <p>If you will know him by his ſmell, you may ſcent him a<g ref="char:EOLhyphen"/>mongſt the malignants, for they will rather keepe his Excre<g ref="char:EOLhyphen"/>ment for a ſusſtitious monument, then let him be quite gone they flock for ſome looks of his gray head, or peeces of his nailes, or a pin of his cloathes, or rather then faile, one of the Feathers of his bauble to keepe for a relique; ſomething they are reſolved to keepe in remembrance of him, which way be eaſiſy ſcented when you come amongſt them, for they ſlinke of it as bad as a Fryer of his weedes, or a Non of her mantle, which will fume ſufficiently in your noſes, except they coſter you with a little holy water ſprinkled up<g ref="char:EOLhyphen"/>on him to deceve your ſences.</p>
+            <p>You may alſo know him by his voice, for he cries juſt like to the Oxford luncto men, have not I been of great e<g ref="char:EOLhyphen"/>ſteeme alwaies with your have not I authoritie, hath not my waies been Idolizied by the moſt, and what will you leave me now, if ever you ſtuck to a poore ould man, that will do fine acceptable things for you ſtick to me now, you know I have made you merrie, and if the men will not take my part, then all you Women and Boyes. Prentiſes and Servants, do
+<pb n="5" facs="tcp:113369:3"/>not you leave me, for then I ſhall die; but you are the ſtaffe of my age, then be you my comfort, all you that ever thinke to ſee Chriſtmas againe, ſtick to me now cloſe, for I am conſtrained to remaine in the Popiſh quarters, and dare not ſhow my face where the Parliament have any power, thus you have his markes.</p>
+            <p>All you therefore that by your diligent inquirie, can tell anie tidings of this ould man called Chriſtmas, and tell me where he may be met withall; whether in any of your ſtreets, or elſewhere, though in never ſo ſtraitned a place, in an Applewomans ſtaul, or Grocers Curren Tub, in a C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>okes Oven, or the Maides Porrige pot, or crept in ſome corner of a Tra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ters ſhop, where the Cobler was wont ſo merrily to chant his Carolls, whoſoever can tel what is become of him, or where he may be found, let them bring him back againe into England, to the Crier, and they ſhall have a Benedection from the Pope, an hundred oaths from the Cavaliers, 40. Kiſſes from the wanton Wenches, and be made Purſevant to the next Arch Biſhop; Malig<g ref="char:EOLhyphen"/>nants will ſend him a peece of Braune, and everie Prentice boy will give him his point next holie Thurſday, the good-Wives will keepe him in ſome corners of their mince pies, and the new Nun io Ireland will returne him to be ca<g ref="char:EOLhyphen"/>nonized the next Reformation of the Cilender.</p>
+            <p>
+               <hi>And ſo Pape ſave Chriſmas,</hi>
+            </p>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>
+                  <hi>Lady I am come to tell you what returne I can make you of the crying of ould Father Chriſmas, which J have done, and am now here to give you anſwer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ladie.</speaker>
+               <p>
+                  <hi>Well ſaid honeſt Cryer, Mr. Woodcock will remem<g ref="char:EOLhyphen"/>ber you for it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>The <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oor old man upon St. Thomas his day was a<g ref="char:EOLhyphen"/>raigned, condemned, and after conviction caſt into priſon a<g ref="char:EOLhyphen"/>mongſt the Kings Souldiers, fearing to be hanged, or ſome other execution to be done upon him, he broke priſon,
+<pb n="6" facs="tcp:113369:4"/>and got out at ſo narrow a paſſage, between two Iron Bars of a Window, that nothing but onely his old gray beard and hoarie hair of his head ſtuck there, but nothing elſe to be ſeen of him; and if you will have that, compound for it, leſt it be ſold amongſt the ſequeſtred goods, or burnt with the next Popiſh pictures, by the hand of the hangman.</p>
+            </sp>
+            <sp>
+               <speaker>Lady.</speaker>
+               <p>But is old, old, good old Chriſtmas gone? No<g ref="char:EOLhyphen"/>thing but the hair of his good, grave old head and beard left! Well, I will have that, ſeeing I cannot have more of him, one lock whereof will ſerve Mr. <hi>Woodcock</hi> for a token; But what is the event of his departure?</p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>The poor are ſory for it, for they go to every door a begging as they were wont to do <hi>(Good Mrs. ſomewhat a<g ref="char:EOLhyphen"/>gainſt this good Time)</hi> but Time was transformed, <hi>Away be gone, here is not for you;</hi> and ſo they inſtead of going to the Ale-bouſe to be drunk, were fain to work all the Holidayes. The Schollers came into the Hall, where their hungry ſto<g ref="char:EOLhyphen"/>macks had thought to have found good Brawn and Chriſt<g ref="char:EOLhyphen"/>mas Pies, Roaſt bief and Plum porridge, but no ſuch mat<g ref="char:EOLhyphen"/>ter; Away ye prophane, theſe are ſuperſtitious meats, your ſtomack muſt be fed with wholeſome doctrine. Alas poor tallow-faced Chandlers, I met them mourning through the ſtreets, and complaining that they could get no vent for their Muſtard, for want of Brawn.</p>
+            </sp>
+            <sp>
+               <speaker>Lady.</speaker>
+               <p>Well, if ever the Catholiques or Biſhops rule again in England, they will ſet the Church dores open on Chriſt<g ref="char:EOLhyphen"/>mas day, and we ſhall have Maſſe at the High Altar, as was uſed when the day was firſt inſtituted, and not have the ho<g ref="char:EOLhyphen"/>ly Euchariſt barred out of School, as School boyes do their Maſters againſt the feſtival. What ſhall we have our mouths ſhut to welcome old Chriſtmas? No, no, bid him come by night over the Thames, and we wil have a back door open to let him it. I will my ſelf give him his diet for one year, to try his fortune, this time twelve month it may prove better.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
